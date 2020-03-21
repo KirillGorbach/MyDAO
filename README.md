@@ -1,6 +1,6 @@
 # MyDAO
 Что нужно для работы:
-1. Подключить JDBC (для SQLite можно скачать здесь: https://bitbucket.org/xerial/sqlite-jdbc/downloads).
+1. Подключить JDBC (для SQLite можно скачать здесь: https://bitbucket.org/xerial/sqlite-jdbc/downloads, для maven ищем в репозитории MVN).
 Подключить: "Project Structure" => "Libraries" => "+" и указат путь.
 2. Скачать SQLite можно с официального сайта.
 3. Создать файл базы данных. В консоли это "sqlite3 myDatabase.db".
